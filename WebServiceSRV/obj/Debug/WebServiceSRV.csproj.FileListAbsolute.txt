@@ -1,0 +1,5 @@
+C:\Users\Firen\documents\visual studio 2010\Projects\WebServiceSRV\WebServiceSRV\bin\WebServiceSRV.dll
+C:\Users\Firen\documents\visual studio 2010\Projects\WebServiceSRV\WebServiceSRV\bin\WebServiceSRV.pdb
+C:\Users\Firen\documents\visual studio 2010\Projects\WebServiceSRV\WebServiceSRV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Firen\documents\visual studio 2010\Projects\WebServiceSRV\WebServiceSRV\obj\Debug\WebServiceSRV.dll
+C:\Users\Firen\documents\visual studio 2010\Projects\WebServiceSRV\WebServiceSRV\obj\Debug\WebServiceSRV.pdb
